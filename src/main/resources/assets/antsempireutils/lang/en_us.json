@@ -1,5 +1,7 @@
 {
-  "itemGroup.antsempireutils": "Example Mod Tab",
-  "block.antsempireutils.example_block": "Example Block",
-  "item.antsempireutils.example_item": "Example Item"
+  "key.antsempireutils.autofish": "Toggle AutoFish",
+  "key.antsempireutils.gapplealert": "Toggle Gapple Alert",
+  "key.antsempireutils.pvpmode": "Toggle PVP Mode",
+  "key.antsempireutils.autoeat": "Toggle AutoEat",
+  "key.antsempireutils.armouralert": "Toggle Armour Alerts"
 }
